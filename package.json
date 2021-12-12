@@ -1,0 +1,25 @@
+{
+  "name": "node_lecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "calc-js": "^2.0.7",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitalyyP/Node_lecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitalyyP/Node_lecture/issues"
+  },
+  "homepage": "https://github.com/VitalyyP/Node_lecture#readme"
+}
